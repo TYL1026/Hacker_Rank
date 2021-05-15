@@ -1,0 +1,25 @@
+String.charAt()
+String.concat()
+String.includes()
+String.endsWith()
+String.indexOf()
+String.lastIndexOf()
+String.match():Match a regular expression passed as an argument against the calling string. If a match is found, it returns an object with three properties: the matched substring, the index it was found at, and the input (i.e., the initial string); if no match is found, it returns null.
+String.normalize():Returns a string containing the Unicode Normalization Form of the calling string's value. The argument must be one of the following:"
+                                                            "NFC": Normalization Form Canonical Composition. This is the default in the event that no argument is given.
+                                                            "NFD": Normalization Form Canonical Decomposition.
+                                                            "NFKC": Normalization Form Compatibility Composition.
+                                                            "NFKD": Normalization Form Compatibility Decomposition.
+String.repeat()
+String.replace()
+String.search():Executes the search for a match between a regular expression and a specified string, then returns the index of the first character of the first match.
+String.slice():Extracts a section of a string and returns it as a new string. The extracted section depends on the arguments passed to the function
+String.split()
+String.substr()
+String.startsWith()
+String.substring()
+String.toLowerCase()
+String.toUpperCase()
+String.trim()
+String.trimLeft()
+String.trimRight()
