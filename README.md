@@ -1,5 +1,5 @@
 # Hacker_Rank
-All files under this repo are practices from Hacker Rank
+All files under this repo are practices from Hacker Rank 🧐 
 
 # Project
 ## [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
