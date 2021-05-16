@@ -1,7 +1,7 @@
 # Hacker_Rank
 All files under this repo are practices from Hacker Rank 🧐 
 
-# Project
+# Project😆😆
 ## [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 Day | Title 
 ------------ | -------------
@@ -17,6 +17,6 @@ Day | Title
 9|[Binary Calculator](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%209)
 
 
-## Certificate
+## 🔴 🟠 🟡 🟢 🔵Certificate🔴 🟠 🟡 🟢 🔵
 ![image](https://user-images.githubusercontent.com/65515982/118393193-a6cb8180-b5f2-11eb-957b-f499cdd82fc3.png)
 https://www.hackerrank.com/certificates/d19a8dd7a402
