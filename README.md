@@ -13,3 +13,5 @@ Day | Title
 7|[Regular Expressions I & Regular Expressions II & Regular Expressions III](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%207)
 8|[Buttons Container & Create a Button](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%208)
 9|[Binary Calculator](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%209)
+https://www.hackerrank.com/certificates/d19a8dd7a402
+![image](https://user-images.githubusercontent.com/65515982/118393193-a6cb8180-b5f2-11eb-957b-f499cdd82fc3.png)
