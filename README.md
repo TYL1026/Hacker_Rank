@@ -1,6 +1,6 @@
 # Hacker_Rank
-All files under this repo are practices from Hacker Rank 
-Certificate attached below
+All files under this repo are practices from Hacker Rank  
+📣 📣 📣 Certificate attached below📣 📣 📣 
 
 ## 🧐🧐Project🧐🧐 
 ### [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
