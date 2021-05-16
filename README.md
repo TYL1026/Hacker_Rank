@@ -8,4 +8,6 @@ Day | Title
 2|[Switch & If-Else & Loop](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%202)
 3|[Arrays & Try,Catch,Finally,Throw](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%203)
 4|[Create a Rectangle Object & Count Objects & Classes](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%204)
-5|[ Inheritance & Template Literals & Arrow Functions](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%205)
+5|[Inheritance & Template Literals & Arrow Functions](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%205)
+6|[](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%206)
+6|[Bitwise Operators & JavaScript Dates](https://github.com/TYL1026/Hacker_Rank/tree/main/10%20Days%20of%20Javascript/Day%206)
