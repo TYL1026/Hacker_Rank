@@ -1,5 +1,6 @@
 # Hacker_Rank
 All files under this repo are practices from Hacker Rank
+## Certificate
 ![image](https://user-images.githubusercontent.com/65515982/118393193-a6cb8180-b5f2-11eb-957b-f499cdd82fc3.png)
 https://www.hackerrank.com/certificates/d19a8dd7a402
 ## [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
